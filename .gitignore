@@ -49,3 +49,9 @@ output_*.txt
 # Temporary files
 *.log
 *.tmp
+
+# Duplicate folders and files
+FINAL_PROJECT_SUBMISSION/
+GITHUB_READY.txt
+READY_FOR_GITHUB.txt
+starter/
